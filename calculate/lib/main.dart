@@ -48,7 +48,7 @@ class _MainPageState extends State<MainPage> {
               icon: Icon(Icons.calculate), label: 'Cal Grade'),
           BottomNavigationBarItem(
               icon: Icon(Icons.contact_mail), label: 'Follow Me'),
-          BottomNavigationBarItem(icon: Icon(Icons.info), label: 'Info')
+          BottomNavigationBarItem(icon: Icon(Icons.subject), label: 'My Subject')
         ],
         selectedItemColor: Colors.black,
         onTap: (index) {
