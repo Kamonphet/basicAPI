@@ -1,0 +1,32 @@
+[
+    {
+        "title":"CED211",
+        "description":"Computer Network",
+        "pab":"https://cdn.pixabay.com/photo/2019/07/19/12/00/network-4348652_960_720.png",
+        "detail":"Quiz  สัปดาห์ที่ 5\n วิเคราะห์ระบบ"
+    },
+    {
+        "title":"CED213",
+        "description":"Computer Programing",
+        "pab":"https://cdn.pixabay.com/photo/2016/07/12/19/08/laptop-1512838_960_720.png",
+        "detail":"Quiz สัปดาห์ที่ 5\n พัฒนาเว็บแอปพลิเคชันอะไรก็ได้"
+    },
+    {
+        "title":"EDT211",
+        "description":"Digital Photography Technology",
+        "pab":"https://cdn.pixabay.com/photo/2016/03/31/20/01/camera-1295463_960_720.png",
+        "detail":"ศึกษาคุณลักษณะของกล้องตัวเอง\n ถ่ายภาพตามที่กำหนดไว้"
+    },
+    {
+        "title":"EDT212",
+        "description":"Writing for Educational Communication",
+        "pab":"https://cdn.pixabay.com/photo/2017/10/31/23/33/desk-2906792_960_720.png",
+        "detail":"เขียนบทความทางวิชาการ\n เขียนบทสารคดี\n เขียนบทโฆษณา"
+    },
+    {
+        "title":"ED201",
+        "description":"Thai for Communication",
+        "pab":"https://cdn.pixabay.com/photo/2019/09/22/16/20/communication-4496463_960_720.png",
+        "detail":"งานภาษาไทยทุกสัปดาห์ รอติดตามเอา"
+    }
+]
