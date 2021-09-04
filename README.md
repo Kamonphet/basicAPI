@@ -1,2 +1,2 @@
 # basicflutter
-Test Project Flutter App.
+Little Project Flutter App.
