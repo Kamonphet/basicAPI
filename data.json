@@ -3,13 +3,13 @@
         "title":"CED211",
         "description":"Computer Network",
         "pab":"https://raw.githubusercontent.com/Kamonphet/basicAPI/main/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%97%E0%B8%B5%E0%B9%881.png",
-        "detail":"Quiz  สัปดาห์ที่ 5\n วิเคราะห์ระบบ"
+        "detail":"\n วิเคราะห์ระบบ"
     },
     {
         "title":"CED213",
         "description":"Computer Programing",
         "pab":"https://raw.githubusercontent.com/Kamonphet/basicAPI/main/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%97%E0%B8%B5%E0%B9%882.png",
-        "detail":"Quiz สัปดาห์ที่ 5\n พัฒนาเว็บแอปพลิเคชันอะไรก็ได้"
+        "detail":"Quiz\n พัฒนาเว็บแอปพลิเคชันอะไรก็ได้"
     },
     {
         "title":"EDT211",
